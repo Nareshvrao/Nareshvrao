@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nareshvrao
 - 👀 I’m interested in Machine Learning, AI and Data science
-- 🌱 I’m currently learning master in University of new haven
+- 🌱 I’m currently learning DS in University of new haven
 - 💞️ I’m looking to collaborate on ML open source projects
 - 📫 How to reach me nareshvrao@gmail.com
 
